@@ -16,7 +16,7 @@ I'm an independent Backend Developer that loves to create and share useful conte
 
 You can connect with me via any of the platforms below 👇🏾
 
-- [email](mailto:awuloero13@gmail.com)
+- [Email](mailto:awuloero13@gmail.com)
 - [Blog](#)
 - [Twitter](#)
 - [LinkedIn](https://www.linkedin.com/in/emmaunel-oreoluwa/)
