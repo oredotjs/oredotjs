@@ -1,5 +1,12 @@
 # Hey! 👋🏼 I'm Oreoluwa
 
+<img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mongodb%20-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/express%20-%2368a063.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+
 I'm an independent Backend Developer that loves to create and share useful content about apis & the web
 
 - 📫 How to reach me **awuloero13@gmail.com**
