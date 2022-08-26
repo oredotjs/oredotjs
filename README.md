@@ -10,7 +10,9 @@
 I'm an independent Backend Developer that loves to create and share useful content about apis & the web
 
 - 📫 How to reach me **awuloero13@gmail.com**
+- 🌱 I’m currently learning new technologies and frameworks
 - 👯 I’m looking to collaborate on **open source projects that contribute to the community growth**
+- 🤔 I’m looking for help with data structures and algorithms
 
 ### Want to connect?
 
