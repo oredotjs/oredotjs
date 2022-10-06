@@ -21,4 +21,4 @@ You can connect with me via any of the platforms below 👇🏾
 - [Email](mailto:awuloero13@gmail.com)
 - [Blog](#)
 - [Twitter](#)
-- [LinkedIn](https://www.linkedin.com/in/emmaunel-oreoluwa/
+- [LinkedIn](https://www.linkedin.com/in/emmaunel-oreoluwa/)
