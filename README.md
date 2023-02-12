@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/TypeScript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
-I'm an Software Developer that loves to create and share useful content about apis & the web developement
+I'm an Software Developer that loves to create and share useful content about apis & the fullstack web developement
 
 - 📫 How to reach me **awuloero13@gmail.com**
 - 🌱 I’m currently learning new technologies and frameworks
