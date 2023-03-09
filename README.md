@@ -10,7 +10,7 @@
 I'm an Software Developer that loves to create and share useful content about scalable api & the fullstack web developement
 
 - 📫 How to reach me **awuloero13@gmail.com**
-- 🌱 I’m currently learning new technologies and frameworks.
+- 🌱 I’m currently learning new micro services .
 - 👯 I’m looking to collaborate on **open source projects that contribute to the community growth**
 - 🤔 I’m looking for help with data structures and algorithms
 
