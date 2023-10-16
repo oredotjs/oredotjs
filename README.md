@@ -10,7 +10,7 @@
 I'm an Software Developer that loves to create and share useful content about scalable api & the fullstack web developement
 
 - 📫 How to reach me **awuloero13@gmail.com**
-- 📝 I read books. I currently reading The Lean Startup.
+- 📝 I read books. I currently reading The Alchemist.
 - 🌱 I’m currently learning micro services and distributed system.
 - 👯 I’m looking to collaborate on **open source projects that contribute to the community growth**
 - 🤔 I’m looking for help with data struThe Lean Startupctures and algorithms
