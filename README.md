@@ -13,7 +13,7 @@ I'm an Software Developer that loves to create and share useful content about sc
 - 📝 I read books. I'm currently reading The Alchemist.
 - 🌱 I’m currently learning micro services and distributed system.
 - 👯 I’m looking to collaborate on **open source projects that contribute to the community growth**
-- 🤔 I’m looking for help with data struThe Lean Startupctures and algorithms
+
 
 ### Want to connect?
 
